@@ -1,0 +1,13 @@
+<RCC>
+    <qresource prefix="/new/prefix1">
+        <file>img1/box.bmp</file>
+        <file>img1/1.bmp</file>
+        <file>img1/2.bmp</file>
+        <file>img1/3.bmp</file>
+        <file>img1/4.bmp</file>
+        <file>img1/cross.bmp</file>
+        <file>img1/d.bmp</file>
+        <file>img1/r.bmp</file>
+        <file>img1/rd.bmp</file>
+    </qresource>
+</RCC>
